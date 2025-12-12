@@ -1,0 +1,59 @@
+# correlation: asx vs other market indices
+All the correlations are strongly positive (0.8-0.96).
+This tells us that ASX200 tends to move in the same direction
+with the major global indices. This make sense as the ASX200
+reflects international investor sentiment and global economic
+trends. However, the one lower correlation (Shanghai = 0.44)
+might suggest that China's market behaves more independently
+from the Western markets.
+
+# correlation: asx vs currency
+Most correlations are negative, meaning when the ASX200 rises,
+those foreign currencies such as USA, EUR and CNY tend to
+weaken against the AUD, or vice versa. That makes sense as
+a stronger Australian stock market often coincides with a
+stronger AUD, leading to inverse relationships with foreign
+currencies. However, 10,000 IDR (Indonesian Rupiah) shows a
+small positive correlation (0.45), that could be noise or a
+regional trade effect.
+
+# correlation: asx vs bond
+Most yields are negatively correlated with ASX200 (-0.6 to
+-0.77). This fits real-world behaviour as when bond yields rise
+(interest rates increase), stock markets often decline due to
+higher borrowing costs and reduced investment motivation. The
+few positive correlations such as Singapore 1yr (0.79) and US 1yr
+(0.71) may reflect localised market factors or data variations.
+
+# correlation: asx vs RBA-rate
+The RBA-rate shows a strong inverse relationship with the ASX200, with
+a correlation of -0.8. This aligns with the real-world economy, where
+rising interest rates increase borrowing costs and can dampen
+economic activity and corporate profitability, leading to declines
+in stock market performance. Coversely, lower interest rates reduce
+financing costs, stimulate spending and investment, and often
+contribute to upward movements in the ASX200.
+
+==> Overall: From the correlation analysis, ASX200 demonstrates
+strong dependency on global stock indices, moderate to strong
+inverse relationships with foreign currency exchange rates, and
+negative correlation with global bond yields and RBA-rate. These patterns
+align with established macro-financial theory where global
+equity movements, exchange rate dynamics, and interest rate
+changes jointly influence Australian market performance
+
+#trend visualisation
+The ASX200 index started at a relatively low level of around 4,300 in mid-2010,
+showing mild fluctuations until 2012, when it experienced a notable
+downturn below 4000.
+
+From 2013 onwards, the index demonstrated a strong upward trend, steadily increasing
+from around 4,500 to above 6,000 by 2015. This growth indicates improved investor
+confidence and gradual economic expansion during those years.
+
+Between 2016 and 2019, the ASX200 maintained an overall upward movement, with a mild fluctuation.
+The index reached its peak above 7,000 in early 2020, before facing a sharp decline to around
+4,500, most likely due to the market shock from the COVID-19 pandemic. This pattern matches
+with the research. On 2020 February 2020, stock markets across the word suddenly crashed after growing instability.
+The crash ened on 7 April 2020. This trend is also capture in the graph as the index level grow again in mid
+2020.
